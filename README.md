@@ -8,7 +8,7 @@ terraform validate
 terraform plan
 terraform apply
 
-it will create a ec2 vm in aws in which it automatically install docker and pull the nginxdemos/hello image
+It will create a ec2 vm in aws in which it automatically install docker and pull the nginxdemos/hello image
 After that it will create a container of that image which will run on port 80.
 This terraform code also create a security group in which it allow port 80 and 443.
 
