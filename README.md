@@ -1,6 +1,6 @@
 # webapp
-This repository contain a terraform code of a stateless application 
-Clone the repo code
+This repository contain a terraform code of a stateless application [^2]
+Clone the repo code[^2]
 configure the aws in terminal with aws access key and secret key
 configure the terraform in the terminal
 run terraform init
